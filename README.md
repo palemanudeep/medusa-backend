@@ -1,1 +1,1 @@
-# medusa-backend
+# medusa-app
